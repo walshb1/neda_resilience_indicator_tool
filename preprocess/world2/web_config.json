@@ -1,0 +1,35 @@
+{
+    "outputs": {
+        "risk_to_assets": {
+            "descriptor": "Risk to assets",
+            "gradient": ["#f0f9e8", "#08589e"],
+            "number_type": "percent",
+            "precision": 3
+        },
+        "resilience": {
+            "descriptor": "Socioeconomic capacity",
+            "gradient": ["#990000", "#fef0d9"],
+            "number_type": "percent",
+            "precision": 2
+        },
+        "risk": {
+            "descriptor": "Risk",
+            "gradient": ["#edf8fb", "#6e016b"],
+            "number_type": "percent",
+            "precision": 3
+        }
+    },
+    "inputs": ["macro_T_rebuild_K", "macro_borrow_abi", "macro_prepare_scaleup","macro_tau_tax", "axfin_cat_info__nonpoor", "axfin_cat_info__poor", "gamma_SP_cat_info__poor", "k_cat_info__nonpoor", "k_cat_info__poor","v_cat_info__nonpoor", "v_cat_info__poor", "shew_for_hazard_ratio", "hazard_ratio_fa__earthquake", "hazard_ratio_fa__flood","hazard_ratio_flood_poor","hazard_ratio_fa__tsunami","hazard_ratio_fa__wind"],
+    "inputs_info": "inputs_info_wrapper.csv",
+    "default_input": "axfin_cat_info__poor",
+    "default_output": "resilience",
+    "default_feature": "AUS",
+    "model_data": "df_for_wrapper.csv",
+    "model_function": "res_ind_lib.compute_resilience_from_packed_inputs",
+    "pop": "macro_pop",
+    "gdp": "macro_gdp_pc_pp",
+    "map": {
+        "width": 500,
+        "height": 350
+    }
+}

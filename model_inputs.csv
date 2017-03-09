@@ -1,0 +1,2 @@
+name,T_rebuild_K,avg_prod_k,cp,cr,dK,dKtot,dWpc_curency,dWtot_currency,dcap,dcar,delta_W,fap,far,gdp_pc_pp,gdp_pc_pp_nat,id,income_elast,pi,pop,pov_head,protection,protectionref,resilience,rho,risk,risk_to_assets,shewp,shewr,sigma_p,sigma_r,social_p,social_r,v_p,v_r,v_s
+Abra,3.0,0.23,92.82897219,203.8914205,0.571356501,2765.808713,0.0657773,3365.62713,58.73921438,104.0254647,1.76e-05,0.005,0.005,173.689487,234.6025772,abra,1.5,0.2,51167.0,0.27194,10.57,10.57,0.821781085,0.15,0.000378706,0.000311214,0.0297,0.0632,0.0,0.0,0.17353,0.20346,0.17819,0.15242,0.147131324

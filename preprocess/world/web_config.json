@@ -1,0 +1,38 @@
+{
+    "outputs": {
+        "risk_to_assets": {
+            "descriptor": "Risk to assets",
+            "gradient": ["#f0f9e8", "#08589e"],
+            "number_type": "percent",
+            "precision": 3
+        },
+        "resilience": {
+            "descriptor": "Socioeconomic capacity",
+            "gradient": ["#990000", "#fef0d9"],
+            "number_type": "percent",
+            "precision": 2
+        },
+        "risk": {
+            "descriptor": "Risk",
+            "gradient": ["#edf8fb", "#6e016b"],
+            "number_type": "percent",
+            "precision": 3
+        }
+    },
+    "inputs": ["axfin_p", "axfin_r", "axhealth", "finance_pre",
+        "pe", "plgp", "prepare_scaleup", "pv", "rating", "share1",
+        "social_p", "social_r", "unemp", "protection", "fa", "v"
+    ],
+    "inputs_info": "inputs_info.csv",
+    "default_input": "axfin_p",
+    "default_output": "resilience",
+    "default_feature": "AUS",
+    "model_data": "df.csv",
+    "model_function": "res_ind_lib.compute_resiliences",
+    "pop": "pop",
+    "gdp": "gdp_pc_pp",
+    "map": {
+        "width": 500,
+        "height": 350
+    }
+}

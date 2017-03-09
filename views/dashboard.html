@@ -1,0 +1,101 @@
+{% extends 'base.html' %} {% block title %}{% endblock %} {% block content %}
+<div id="spinner"><span>Loading</span>
+    <br/><i class="fa fa-spin fa-4x fa-refresh"></i></div>
+<div id="mask">
+    <div id="ui" class="row">
+        <!-- left column -->
+        <div class="col-sm-4">
+            <a class="nolink"><strong><i class="glyphicon glyphicon-globe"></i> <span id="title">Socioeconomic Capacity (%)</span></strong></a>
+            <hr>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div id="map">
+                        <div id="data"></div>
+                    </div>
+                    <div id="legend"></div>
+                    <div class="col-sm-6 active">
+                        <div id="sm-map-1" class="sm-map" data-output="resilience" data-output-color="resilience_color" data-output-title="Socioeconomic Capacity (%)">
+                            <div class="output">Socioeconomic capacity</div>
+                            <img class="active" src="images/resilience_thumb.png" />
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div id="sm-map-2" class="sm-map" data-output="risk" data-output-color="risk_color" data-output-title="Expected welfare losses (% of GDP)">
+                            <div class="output">Expected welfare losses</div>
+                            <img src="images/risk_thumb.png" />
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div id="sm-map-3" class="sm-map" data-output="risk_to_assets" data-output-color="risk_to_assets_color" data-output-title="Expected asset losses (% of GDP)">
+                            <div class="output">Expected asset losses</div>
+                            <img src="images/risk_to_assets_thumb.png" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- middle column -->
+        <div class="col-sm-4">
+            <a class="nolink"><strong><i class="glyphicon glyphicon-wrench"></i> <span id="selected-feature"></span></strong></a>
+            <hr/>
+            <a name="outputs" class="nolink">
+                <br/><span><strong>  Outputs</strong></span></a>
+            <div class="row">
+                <div id="outputs"></div>
+            </div>
+            <br/>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="col-md-6">
+                        <span><button id="resetmodel" type="button" class="btn btn-primary btn-success btn-lg">Reset Model</button>
+                </span>
+                    </div>
+                    <div class="col-md-6">
+                        <span><button id="runmodel" type="button" class="btn btn-primary btn-success btn-lg">Run Model</button>
+                </span>
+                    </div>
+                </div>
+            </div>
+            <br/>
+            <hr/>
+            <a name="inputs" class="nolink">
+                <br/><span><strong>  Inputs</strong></span></a>
+            <div class="row">
+                <div id="inputs"></div>
+            </div>
+            <!-- <div class="row">
+                <div class="col-md-6 pull-left">
+                    <span><button id="resetmodel" type="button" class="btn btn-primary btn-success btn-lg">Reset Model</button>
+                </span>
+                </div>
+                <div class="col-md-6 pull-right">
+                    <span><button id="runmodel" type="button" class="btn btn-primary btn-success btn-lg">Run Model</button>
+                </span>
+                </div>
+            </div> -->
+        </div>
+
+        <!-- right column -->
+        <div class="col-sm-4">
+            <a class="nolink"><strong><i class="glyphicon glyphicon-stats"></i> Output: <span id="output-bubble-title"></span></strong></a>
+            <hr>
+            <div class="row">
+                <div id="output-plot">
+                    <svg></svg>
+                </div>
+            </div>
+            <br/>
+            <a href="#"><strong><i class="glyphicon glyphicon-stats"></i> Input: <span id="input-bubble-title">Asset Vulnerability Bias</span></strong></a>
+            <hr/>
+            <div class="row">
+                <div id="input-plot">
+                    <svg></svg>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% block scripts %}
+<script type="text/javascript" src="js/app.js"></script>
+{% endblock %}

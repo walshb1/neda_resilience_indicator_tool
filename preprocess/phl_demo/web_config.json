@@ -1,0 +1,37 @@
+{
+    "outputs": {
+        "risk_to_assets": {
+            "descriptor": "Risk to assets",
+            "gradient": ["#f0f9e8", "#08589e"],
+            "number_type": "percent",
+            "precision": 3
+        },
+        "resilience": {
+            "descriptor": "Socioeconomic capacity",
+            "gradient": ["#990000", "#fef0d9"],
+            "number_type": "percent",
+            "precision": 2
+        },
+        "risk": {
+            "descriptor": "Risk",
+            "gradient": ["#edf8fb", "#6e016b"],
+            "number_type": "percent",
+            "precision": 3
+        }
+    },
+    "inputs": [
+	    "fap", "far", "gdp_pc_pp", "cp", "cr", "pi", "pov_head", "protection", "shewp", "shewr", "social_p", "social_r", "T_rebuild_K", "v_p", "v_r"
+    ],
+    "inputs_info": "inputs_info.csv",
+    "default_input": "fap",
+    "default_output": "resilience",
+    "default_feature": "abra",
+    "model_data": "df_phl_demo.csv",
+    "model_function": "res_ind_lib.compute_resiliences",
+    "pop": "pop",
+    "gdp": "gdp_pc_pp",
+    "map": {
+        "width": 500,
+        "height": 500
+    }
+}
