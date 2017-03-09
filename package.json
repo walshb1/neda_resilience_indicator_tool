@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/worldbank-climate-group/resilience-indicator-tool.git"
+    "url": "git+https://github.com/walshb1/neda_resilience_indicator_tool.git"
   },
-  "author": "Brian O'Hare, Adrien Vogt-Schilb",
+  "author": "Brian O'Hare, Adrien Vogt-Schilb, Brian Walsh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/worldbank-climate-group/resilience-indicator-tool/issues"
   },
-  "homepage": "https://github.com/worldbank-climate-group/resilience-indicator-tool#readme",
+  "homepage": "https://github.com/walshb1/neda_resilience_indicator_tool#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
     "bootstrap-slider": "^7.0.2",
