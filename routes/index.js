@@ -7,7 +7,7 @@ var express = require('express'),
 
 var router = express.Router();
 
-var title = 'Preliminary tool for measuring socio-economic resilience to natural disasters';
+var title = 'Preliminary tool for measuring socio-economic resilience to natural disasters in the Philippines';
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
