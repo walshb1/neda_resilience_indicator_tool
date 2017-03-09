@@ -1,7 +1,7 @@
 {
   "name": "resilience-indicator-tool",
   "version": "1.0.0",
-  "description": "World Bank Climate Change Group, Resilience Indicator Tool",
+  "description": "National Economic and Development Authority of the Government of the Philippines, Resilience Indicator Tool",
   "main": "index.js",
   "scripts": {
     "start": "node ./bin/www"
@@ -13,7 +13,7 @@
   "author": "Brian O'Hare, Adrien Vogt-Schilb, Brian Walsh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/worldbank-climate-group/resilience-indicator-tool/issues"
+    "url": "https://github.com/walshb1/neda_resilience_indicator_tool/issues"
   },
   "homepage": "https://github.com/walshb1/neda_resilience_indicator_tool#readme",
   "dependencies": {
