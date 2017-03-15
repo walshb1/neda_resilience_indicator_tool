@@ -1993,3 +1993,961 @@ Abra  0.17819  0.15242  0.147131
 
 [1 rows x 35 columns]
 2017-03-09 02:51:19,808: DEBUG: Running model took: 0.13603949546813965
+2017-03-09 07:30:44,809: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.571357  2765.808713   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.065777      3365.62713  58.739214  104.025465    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000311  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-09 07:30:44,963: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  1.061114  5136.616804   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.195633     10009.93078  59.390221  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000578  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-09 07:30:44,991: DEBUG: Running model took: 0.12257981300354004
+2017-03-09 09:16:02,660: DEBUG:          T_rebuild_K  avg_prod_k        cp         cr        dK        dKtot  \
+name                                                                           
+Isabela          3.0        0.23  87.82875  211.37736  0.555217  19296.47343   
+
+         dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                            ...      
+Isabela      0.067554     24159.21719  62.296786  102.183017    ...      
+
+         risk_to_assets  shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                          
+Isabela        0.000287  0.016  0.0623      0.0      0.0  0.10563    0.1548   
+
+             v_p      v_r       v_s  
+name                                 
+Isabela  0.18463  0.13426  0.131428  
+
+[1 rows x 35 columns]
+2017-03-09 09:16:02,767: DEBUG:          T_rebuild_K  avg_prod_k        cp         cr       dK         dKtot  \
+name                                                                           
+Isabela          3.0        0.23  87.82875  211.37736  0.56015  19467.921637   
+
+         dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                            ...      
+Isabela       0.06813    24364.971975  62.881008  103.082636    ...      
+
+         risk_to_assets  shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                          
+Isabela         0.00029  0.016  0.0623      0.0      0.0  0.10563    0.1548   
+
+             v_p      v_r       v_s  
+name                                 
+Isabela  0.18463  0.13426  0.131428  
+
+[1 rows x 35 columns]
+2017-03-09 09:16:02,784: DEBUG: Running model took: 0.08707165718078613
+2017-03-12 08:13:06,904: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.571357  2765.808713   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.065777      3365.62713  58.739214  104.025465    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000311  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-12 08:13:07,043: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK       dKtot  \
+name                                                                         
+Abra          3.0        0.23  92.828972  203.891421  0.582859  856.188405   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.020248      1036.01672  59.136726  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000096  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-12 08:13:07,066: DEBUG: Running model took: 0.11542606353759766
+2017-03-12 08:13:35,571: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK       dKtot  \
+name                                                                         
+Abra      3.16271        0.23  92.828972  203.891421  0.582859  856.188405   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.020248      1036.01672  59.136726  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000096  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-12 08:13:35,682: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK       dKtot  \
+name                                                                         
+Abra      3.16271        0.23  92.828972  203.891421  0.582859  856.188405   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.020313     1039.369186  59.136726  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000096  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-12 08:13:35,701: DEBUG: Running model took: 0.10105705261230469
+2017-03-12 10:02:10,176: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK       dKtot  \
+name                                                                         
+Abra      3.16271        0.23  92.828972  203.891421  0.582859  856.188405   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.020313     1039.369186  59.136726  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000096  0.0297  0.0632      0.0      0.0  0.20106    0.2496   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.27964  0.29192  0.147131  
+
+[1 rows x 35 columns]
+2017-03-12 10:02:10,273: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr         dK         dKtot  \
+name                                                                            
+Abra      3.16271        0.23  92.828972  203.891421  11.055226  16239.529422   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.506368    25909.322904  90.738349  193.208322    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.001827  0.0297  0.0632      0.0      0.0  0.20106    0.2496   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.27964  0.29192  0.147131  
+
+[1 rows x 35 columns]
+2017-03-12 10:02:10,289: DEBUG: Running model took: 0.07807326316833496
+2017-03-13 02:03:54,637: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.571357  2765.808713   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.065777      3365.62713  58.739214  104.025465    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000311  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-13 02:03:54,789: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.582859  2821.489912   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.066725     3414.097537  59.136726  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000317  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-13 02:03:54,810: DEBUG: Running model took: 0.11922764778137207
+2017-03-13 04:31:50,468: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.571357  2765.808713   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.065777      3365.62713  58.739214  104.025465    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000311  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-13 04:31:50,552: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.582859  2821.489912   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.066725     3414.097537  59.136726  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000317  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-13 04:31:50,567: DEBUG: Running model took: 0.0768425464630127
+2017-03-13 05:07:36,860: DEBUG:          T_rebuild_K  avg_prod_k       cp          cr        dK        dKtot  \
+name                                                                           
+Cagayan          3.0        0.23  84.3379  213.966108  2.397013  68119.29914   
+
+         dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                            ...      
+Cagayan      0.339235     90042.44427  66.949331  100.155512    ...      
+
+         risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                           
+Cagayan        0.001321  0.0366  0.0792      0.0      0.0   0.0921   0.16505   
+
+             v_p      v_r       v_s  
+name                                 
+Cagayan  0.20401  0.13082  0.128413  
+
+[1 rows x 35 columns]
+2017-03-13 05:07:36,993: DEBUG:          T_rebuild_K  avg_prod_k       cp          cr        dK         dKtot  \
+name                                                                            
+Cagayan          3.0        0.23  84.3379  213.966108  2.404755  68339.320759   
+
+         dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                            ...      
+Cagayan      0.340817    90462.335698  67.529012  100.416108    ...      
+
+         risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                           
+Cagayan        0.001325  0.0366  0.0792      0.0      0.0   0.0921   0.16505   
+
+             v_p      v_r       v_s  
+name                                 
+Cagayan  0.20401  0.13082  0.128413  
+
+[1 rows x 35 columns]
+2017-03-13 05:07:37,011: DEBUG: Running model took: 0.11553406715393066
+2017-03-15 02:33:50,066: DEBUG:                     T_rebuild_K  avg_prod_k       cp          cr       dK  \
+name                                                                        
+Occidental Mindoro          3.0        0.23  72.3407  229.907898  5.39181   
+
+                          dKtot  dWpc_curency  dWtot_currency      dcap  \
+name                                                                      
+Occidental Mindoro  82734.82029      1.262848     131771.9122  74.49753   
+
+                          dcar   ...     risk_to_assets   shewp   shewr  \
+name                             ...                                      
+Occidental Mindoro  157.153208   ...           0.004333  0.1334  0.1442   
+
+                    sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                        
+Occidental Mindoro      0.0      0.0  0.15361   0.14605  0.28671  0.18886   
+
+                        v_s  
+name                         
+Occidental Mindoro  0.18306  
+
+[1 rows x 35 columns]
+2017-03-15 02:33:50,258: DEBUG:                     T_rebuild_K  avg_prod_k       cp          cr        dK  \
+name                                                                         
+Occidental Mindoro          3.0        0.23  72.3407  229.907898  5.402869   
+
+                           dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                        
+Occidental Mindoro  82904.524608      1.265577   132056.648836  74.662922   
+
+                          dcar   ...     risk_to_assets   shewp   shewr  \
+name                             ...                                      
+Occidental Mindoro  157.455137   ...           0.004342  0.1334  0.1442   
+
+                    sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                        
+Occidental Mindoro      0.0      0.0  0.15361   0.14605  0.28671  0.18886   
+
+                        v_s  
+name                         
+Occidental Mindoro  0.18306  
+
+[1 rows x 35 columns]
+2017-03-15 02:33:50,280: DEBUG: Running model took: 0.1522073745727539
+2017-03-15 02:55:16,900: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.571357  2765.808713   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.065777      3365.62713  58.739214  104.025465    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000311  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 02:55:16,988: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  1.348262  6526.634048   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra       0.27311    13974.194225  59.542422  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000734  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 02:55:17,004: DEBUG: Running model took: 0.07834100723266602
+2017-03-15 02:55:28,859: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  1.348262  6526.634048   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra       0.27311    13974.194225  59.542422  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000734  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 02:55:28,984: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK         dKtot  \
+name                                                                           
+Abra          3.0        0.23  92.828972  203.891421  3.674538  17787.615887   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.467482    23919.633465  59.542422  107.034707    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.002001  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 02:55:29,004: DEBUG: Running model took: 0.08987927436828613
+2017-03-15 02:55:34,654: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK         dKtot  \
+name                                                                           
+Abra          3.0        0.23  92.828972  203.891421  3.674538  17787.615887   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.467482    23919.633465  59.542422  107.034707    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.002001  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 02:55:34,732: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK         dKtot  \
+name                                                                           
+Abra          3.0        0.23  92.828972  203.891421  3.577225  17316.544966   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.542571    27761.726638  59.542422  107.034707    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.001948  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 02:55:34,749: DEBUG: Running model took: 0.07158160209655762
+2017-03-15 02:55:44,734: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK         dKtot  \
+name                                                                           
+Abra          3.0        0.23  92.828972  203.891421  3.577225  17316.544966   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.542571    27761.726638  59.542422  107.034707    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.001948  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.29696  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 02:55:44,804: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr      dK         dKtot  \
+name                                                                         
+Abra          3.0        0.23  92.828972  203.891421  4.4503  21542.904215   
+
+      dWpc_curency  dWtot_currency      dcap        dcar    ...     \
+name                                                        ...      
+Abra      0.775866    39698.727806  98.92482  107.034707    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.002424  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.29696  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 02:55:44,820: DEBUG: Running model took: 0.0651555061340332
+2017-03-15 03:00:48,670: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.571357  2765.808713   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.065777      3365.62713  58.739214  104.025465    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000311  0.0297  0.0632      0.0      0.0  0.17352   0.20345   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17821  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 03:00:48,771: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.584039  2827.366671   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.066864     3421.254952  59.144172  106.400734    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000318  0.0297  0.0632      0.0      0.0  0.17352   0.20345   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17821  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 03:00:48,792: DEBUG: Running model took: 0.09400343894958496
+2017-03-15 03:22:27,090: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.571357  2765.808713   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.065777      3365.62713  58.739214  104.025465    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000311  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 03:22:27,173: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.582859  1208.083028   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra       0.02857      1461.82103  59.136726  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000136  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 03:22:27,187: DEBUG: Running model took: 0.07101607322692871
+2017-03-15 03:54:58,583: DEBUG:              T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                    
+Catanduanes          3.0        0.23  73.407048  198.752565  3.338835   
+
+                   dKtot  dWpc_curency  dWtot_currency       dcap        dcar  \
+name                                                                            
+Catanduanes  171579.3857      4.790391     246173.4009  59.786171  108.235736   
+
+               ...     risk_to_assets   shewp  shewr  sigma_p  sigma_r  \
+name           ...                                                       
+Catanduanes    ...            0.02026  0.2747  0.296      0.0      0.0   
+
+            social_p  social_r      v_p      v_r       v_s  
+name                                                        
+Catanduanes   0.2142   0.19096  0.25187  0.16071  0.153826  
+
+[1 rows x 35 columns]
+2017-03-15 03:54:58,669: DEBUG:              T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                    
+Catanduanes          3.0        0.23  73.407048  198.752565  3.296711   
+
+                     dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                  
+Catanduanes  169414.683339      4.767395   244991.644124  60.054855   
+
+                   dcar    ...     risk_to_assets   shewp  shewr  sigma_p  \
+name                       ...                                              
+Catanduanes  106.397115    ...           0.020004  0.2747  0.296      0.0   
+
+             sigma_r social_p  social_r      v_p      v_r       v_s  
+name                                                                 
+Catanduanes      0.0   0.2142   0.19096  0.25187  0.16071  0.153826  
+
+[1 rows x 35 columns]
+2017-03-15 03:54:58,685: DEBUG: Running model took: 0.07926273345947266
+2017-03-15 04:00:18,734: DEBUG:         T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                            
+Quezon          3.0        0.23  83.969529  176.919632  2.907898  76504.12583   
+
+        dWpc_curency  dWtot_currency      dcap       dcar    ...     \
+name                                                         ...      
+Quezon      0.220065     101956.8977  79.86082  96.453639    ...      
+
+        risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                          
+Quezon        0.001045  0.1375  0.2133      0.0      0.0   0.1051   0.20594   
+
+            v_p      v_r       v_s  
+name                                
+Quezon  0.25475  0.16028  0.156912  
+
+[1 rows x 35 columns]
+2017-03-15 04:00:18,874: DEBUG:         T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                               
+Quezon          3.0        0.23  83.969529  176.919632  2.863799   
+
+               dKtot  dWpc_curency  dWtot_currency       dcap       dcar  \
+name                                                                       
+Quezon  75343.929413      0.219149   101532.271665  81.122239  94.334415   
+
+          ...     risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  \
+name      ...                                                                 
+Quezon    ...           0.001029  0.1375  0.2133      0.0      0.0   0.1051   
+
+        social_r      v_p      v_r       v_s  
+name                                          
+Quezon   0.20594  0.25475  0.16028  0.156912  
+
+[1 rows x 35 columns]
+2017-03-15 04:00:18,898: DEBUG: Running model took: 0.11637544631958008
+2017-03-15 04:00:25,605: DEBUG:              T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                    
+Catanduanes          3.0        0.23  73.407048  198.752565  3.296711   
+
+                     dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                  
+Catanduanes  169414.683339      4.767395   244991.644124  60.054855   
+
+                   dcar    ...     risk_to_assets   shewp  shewr  sigma_p  \
+name                       ...                                              
+Catanduanes  106.397115    ...           0.020004  0.2747  0.296      0.0   
+
+             sigma_r social_p  social_r      v_p      v_r       v_s  
+name                                                                 
+Catanduanes      0.0   0.2142   0.19096  0.25187  0.16071  0.153826  
+
+[1 rows x 35 columns]
+2017-03-15 04:00:25,731: DEBUG:              T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                    
+Catanduanes          3.0        0.23  73.407048  198.752565  3.296711   
+
+                     dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                  
+Catanduanes  169414.683339      4.767395   244991.644124  60.054855   
+
+                   dcar    ...     risk_to_assets   shewp  shewr  sigma_p  \
+name                       ...                                              
+Catanduanes  106.397115    ...           0.020004  0.2747  0.296      0.0   
+
+             sigma_r social_p  social_r      v_p      v_r       v_s  
+name                                                                 
+Catanduanes      0.0   0.2142   0.19096  0.25187  0.16071  0.153826  
+
+[1 rows x 35 columns]
+2017-03-15 04:00:25,754: DEBUG: Running model took: 0.10912966728210449
+2017-03-15 05:24:28,934: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.571357  2765.808713   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.065777      3365.62713  58.739214  104.025465    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000311  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 05:24:29,024: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.582859  2821.489912   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.066725     3414.097537  59.136726  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000317  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 05:24:29,043: DEBUG: Running model took: 0.0879826545715332
+2017-03-15 07:21:40,169: DEBUG:                   T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                         
+Oriental Mindoro          3.0        0.23  78.765309  207.562134  7.044914   
+
+                        dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                     
+Oriental Mindoro  188962.4306      1.553367     283329.4611  85.005928   
+
+                        dcar    ...     risk_to_assets   shewp   shewr  \
+name                            ...                                      
+Oriental Mindoro  105.235606    ...           0.005761  0.0961  0.1257   
+
+                  sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                      
+Oriental Mindoro      0.0      0.0  0.17738   0.23667  0.30737  0.15584   
+
+                       v_s  
+name                        
+Oriental Mindoro  0.150308  
+
+[1 rows x 35 columns]
+2017-03-15 07:21:40,248: DEBUG:                   T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                         
+Oriental Mindoro          3.0        0.23  78.765309  207.562134  7.114191   
+
+                          dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                       
+Oriental Mindoro  190820.647332       1.56521   285489.551772  85.516513   
+
+                        dcar    ...     risk_to_assets   shewp   shewr  \
+name                            ...                                      
+Oriental Mindoro  106.347273    ...           0.005818  0.0961  0.1257   
+
+                  sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                      
+Oriental Mindoro      0.0      0.0  0.17738   0.23667  0.30737  0.15584   
+
+                       v_s  
+name                        
+Oriental Mindoro  0.150308  
+
+[1 rows x 35 columns]
+2017-03-15 07:21:40,263: DEBUG: Running model took: 0.07222199440002441
+2017-03-15 07:35:54,026: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.571357  2765.808713   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.065777      3365.62713  58.739214  104.025465    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000311  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 07:35:54,122: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.582859  2821.489912   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.066725     3414.097537  59.136726  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000317  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 07:35:54,140: DEBUG: Running model took: 0.08338308334350586
+2017-03-15 07:38:39,985: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.571357  2765.808713   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.065777      3365.62713  58.739214  104.025465    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000311  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 07:38:40,051: DEBUG:       T_rebuild_K  avg_prod_k         cp          cr        dK        dKtot  \
+name                                                                          
+Abra          3.0        0.23  92.828972  203.891421  0.582859  2821.489912   
+
+      dWpc_curency  dWtot_currency       dcap        dcar    ...     \
+name                                                         ...      
+Abra      0.066725     3414.097537  59.136726  106.399141    ...      
+
+      risk_to_assets   shewp   shewr  sigma_p  sigma_r social_p  social_r  \
+name                                                                        
+Abra        0.000317  0.0297  0.0632      0.0      0.0  0.17353   0.20346   
+
+          v_p      v_r       v_s  
+name                              
+Abra  0.17819  0.15242  0.147131  
+
+[1 rows x 35 columns]
+2017-03-15 07:38:40,065: DEBUG: Running model took: 0.06040167808532715
+2017-03-15 07:40:22,133: DEBUG:                   T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                         
+Oriental Mindoro          3.0        0.23  78.765309  207.562134  7.044914   
+
+                        dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                     
+Oriental Mindoro  188962.4306      1.553367     283329.4611  85.005928   
+
+                        dcar    ...     risk_to_assets   shewp   shewr  \
+name                            ...                                      
+Oriental Mindoro  105.235606    ...           0.005761  0.0961  0.1257   
+
+                  sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                      
+Oriental Mindoro      0.0      0.0  0.17738   0.23667  0.30737  0.15584   
+
+                       v_s  
+name                        
+Oriental Mindoro  0.150308  
+
+[1 rows x 35 columns]
+2017-03-15 07:40:22,296: DEBUG:                   T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                         
+Oriental Mindoro          3.0        0.23  78.765309  207.562134  7.114191   
+
+                          dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                       
+Oriental Mindoro  190820.647332       1.56521   285489.551772  85.516513   
+
+                        dcar    ...     risk_to_assets   shewp   shewr  \
+name                            ...                                      
+Oriental Mindoro  106.347273    ...           0.005818  0.0961  0.1257   
+
+                  sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                      
+Oriental Mindoro      0.0      0.0  0.17738   0.23667  0.30737  0.15584   
+
+                       v_s  
+name                        
+Oriental Mindoro  0.150308  
+
+[1 rows x 35 columns]
+2017-03-15 07:40:22,328: DEBUG: Running model took: 0.1485137939453125
+2017-03-15 07:49:36,268: DEBUG:                   T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                         
+Oriental Mindoro          3.0        0.23  78.765309  207.562134  7.044914   
+
+                        dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                     
+Oriental Mindoro  188962.4306      1.553367     283329.4611  85.005928   
+
+                        dcar    ...     risk_to_assets   shewp   shewr  \
+name                            ...                                      
+Oriental Mindoro  105.235606    ...           0.005761  0.0961  0.1257   
+
+                  sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                      
+Oriental Mindoro      0.0      0.0  0.17738   0.23667  0.30737  0.15584   
+
+                       v_s  
+name                        
+Oriental Mindoro  0.150308  
+
+[1 rows x 35 columns]
+2017-03-15 07:49:36,349: DEBUG:                   T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                         
+Oriental Mindoro          3.0        0.23  78.765309  207.562134  7.114191   
+
+                          dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                       
+Oriental Mindoro  190820.647332       1.56521   285489.551772  85.516513   
+
+                        dcar    ...     risk_to_assets   shewp   shewr  \
+name                            ...                                      
+Oriental Mindoro  106.347273    ...           0.005818  0.0961  0.1257   
+
+                  sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                      
+Oriental Mindoro      0.0      0.0  0.17738   0.23667  0.30737  0.15584   
+
+                       v_s  
+name                        
+Oriental Mindoro  0.150308  
+
+[1 rows x 35 columns]
+2017-03-15 07:49:36,365: DEBUG: Running model took: 0.07452535629272461
+2017-03-15 08:28:24,022: DEBUG:                   T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                         
+Oriental Mindoro          3.0        0.23  78.765309  207.562134  7.044914   
+
+                        dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                     
+Oriental Mindoro  188962.4306      1.553367     283329.4611  85.005928   
+
+                        dcar    ...     risk_to_assets   shewp   shewr  \
+name                            ...                                      
+Oriental Mindoro  105.235606    ...           0.005761  0.0961  0.1257   
+
+                  sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                      
+Oriental Mindoro      0.0      0.0  0.17738   0.23667  0.30737  0.15584   
+
+                       v_s  
+name                        
+Oriental Mindoro  0.150308  
+
+[1 rows x 35 columns]
+2017-03-15 08:28:24,192: DEBUG:                   T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                         
+Oriental Mindoro          3.0        0.23  78.765309  207.562134  7.114191   
+
+                          dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                       
+Oriental Mindoro  190820.647332       1.56521   285489.551772  85.516513   
+
+                        dcar    ...     risk_to_assets   shewp   shewr  \
+name                            ...                                      
+Oriental Mindoro  106.347273    ...           0.005818  0.0961  0.1257   
+
+                  sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                      
+Oriental Mindoro      0.0      0.0  0.17738   0.23667  0.30737  0.15584   
+
+                       v_s  
+name                        
+Oriental Mindoro  0.150308  
+
+[1 rows x 35 columns]
+2017-03-15 08:28:24,225: DEBUG: Running model took: 0.15497112274169922
+2017-03-15 08:28:29,467: DEBUG:                   T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                         
+Oriental Mindoro          3.0        0.23  78.765309  207.562134  7.114191   
+
+                          dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                       
+Oriental Mindoro  190820.647332       1.56521   285489.551772  85.516513   
+
+                        dcar    ...     risk_to_assets   shewp   shewr  \
+name                            ...                                      
+Oriental Mindoro  106.347273    ...           0.005818  0.0961  0.1257   
+
+                  sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                      
+Oriental Mindoro      0.0      0.0  0.17738   0.23667  0.30737  0.15584   
+
+                       v_s  
+name                        
+Oriental Mindoro  0.150308  
+
+[1 rows x 35 columns]
+2017-03-15 08:28:29,542: DEBUG:                   T_rebuild_K  avg_prod_k         cp          cr        dK  \
+name                                                                         
+Oriental Mindoro          3.0        0.23  78.765309  207.562134  7.114191   
+
+                          dKtot  dWpc_curency  dWtot_currency       dcap  \
+name                                                                       
+Oriental Mindoro  190820.647332       1.56521   285489.551772  85.516513   
+
+                        dcar    ...     risk_to_assets   shewp   shewr  \
+name                            ...                                      
+Oriental Mindoro  106.347273    ...           0.005818  0.0961  0.1257   
+
+                  sigma_p  sigma_r social_p  social_r      v_p      v_r  \
+name                                                                      
+Oriental Mindoro      0.0      0.0  0.17738   0.23667  0.30737  0.15584   
+
+                       v_s  
+name                        
+Oriental Mindoro  0.150308  
+
+[1 rows x 35 columns]
+2017-03-15 08:28:29,560: DEBUG: Running model took: 0.07163429260253906
